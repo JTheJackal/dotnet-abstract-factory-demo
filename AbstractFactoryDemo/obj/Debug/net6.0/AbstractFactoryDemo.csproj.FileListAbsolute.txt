@@ -1,0 +1,15 @@
+C:\Projects\AbstractFactoryDemo\AbstractFactoryDemo\bin\Debug\net6.0\AbstractFactoryDemo.exe
+C:\Projects\AbstractFactoryDemo\AbstractFactoryDemo\bin\Debug\net6.0\AbstractFactoryDemo.deps.json
+C:\Projects\AbstractFactoryDemo\AbstractFactoryDemo\bin\Debug\net6.0\AbstractFactoryDemo.runtimeconfig.json
+C:\Projects\AbstractFactoryDemo\AbstractFactoryDemo\bin\Debug\net6.0\AbstractFactoryDemo.dll
+C:\Projects\AbstractFactoryDemo\AbstractFactoryDemo\bin\Debug\net6.0\AbstractFactoryDemo.pdb
+C:\Projects\AbstractFactoryDemo\AbstractFactoryDemo\obj\Debug\net6.0\AbstractFactoryDemo.csproj.AssemblyReference.cache
+C:\Projects\AbstractFactoryDemo\AbstractFactoryDemo\obj\Debug\net6.0\AbstractFactoryDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\AbstractFactoryDemo\AbstractFactoryDemo\obj\Debug\net6.0\AbstractFactoryDemo.AssemblyInfoInputs.cache
+C:\Projects\AbstractFactoryDemo\AbstractFactoryDemo\obj\Debug\net6.0\AbstractFactoryDemo.AssemblyInfo.cs
+C:\Projects\AbstractFactoryDemo\AbstractFactoryDemo\obj\Debug\net6.0\AbstractFactoryDemo.csproj.CoreCompileInputs.cache
+C:\Projects\AbstractFactoryDemo\AbstractFactoryDemo\obj\Debug\net6.0\AbstractFactoryDemo.dll
+C:\Projects\AbstractFactoryDemo\AbstractFactoryDemo\obj\Debug\net6.0\refint\AbstractFactoryDemo.dll
+C:\Projects\AbstractFactoryDemo\AbstractFactoryDemo\obj\Debug\net6.0\AbstractFactoryDemo.pdb
+C:\Projects\AbstractFactoryDemo\AbstractFactoryDemo\obj\Debug\net6.0\AbstractFactoryDemo.genruntimeconfig.cache
+C:\Projects\AbstractFactoryDemo\AbstractFactoryDemo\obj\Debug\net6.0\ref\AbstractFactoryDemo.dll
